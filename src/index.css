@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.card{
+    background-image: url("https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg");
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+    
+}
